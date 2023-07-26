@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YoutubeTutorialCalculator</string>
+    <string name="Clear">AC</string>
+    <string name="Division">/</string>
+    <string name="Number_7">7</string>
+    <string name="Number_8">8</string>
+    <string name="N_9">9</string>
+    <string name="Multiplication">*</string>
+    <string name="N_4">4</string>
+    <string name="N_5">5</string>
+    <string name="N_6">6</string>
+    <string name="Subtraction">-</string>
+    <string name="N_1">1</string>
+    <string name="N_2">2</string>
+    <string name="N_3">3</string>
+    <string name="Addition">+</string>
+    <string name="N_0">0</string>
+    <string name="decimalpoint">.</string>
+    <string name="delete">⌫</string>
+    <string name="da">DA</string>
+</resources>
